@@ -3,4 +3,6 @@ class LeadsWorker
 
   def perform(leads_file)
 
-  end 
+  end
+
+end
